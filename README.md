@@ -3,10 +3,11 @@
 # Thing to know
 
 1. Connect to A100 GPU runtime
-2. Upload completed(with pretrained models placed) https://github.com/Boese0601/MagicDance to your gdrive root folder
-3. Run all the code blocks from top to bottom in order
-4. Once you installed all the required packages, no need to rerun until youe current run time is closed
-5. You can re run from Upload file step to the last step multiple times as required
+2. Follow the steps and links provided in get started section, download and place all the required file at their places
+3. Upload completed(with pretrained models placed) to your gdrive root folder
+4. Run all the code blocks in notebook from top to bottom in order
+5. Once you installed all the required packages, no need to rerun until youe current run time is closed
+6. You can re run from Upload file step to the last step multiple times as required
 
 ## Getting Started
 
